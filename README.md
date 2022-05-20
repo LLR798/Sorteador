@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Frameworks
 
-- [Flutter](https://flutter.dev/)
+- [FLUTTER](https://flutter.dev/)
 
 
 ## 💻 Projeto
